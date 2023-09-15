@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vrieru
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 📫 How to reach me motherboard.a001@gmail.com
+- 🌱 I have learned C, C++, C#, Lua, Javascript, HTML, CSS. 
+- 📫 How to reach me 232138@student.scalda.nl
 
 <!---
 Vrieru/Vrieru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
